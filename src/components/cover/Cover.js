@@ -12,4 +12,4 @@ const Cover = () => {
     );
 };
  
-export default Cover;
+export default Cover

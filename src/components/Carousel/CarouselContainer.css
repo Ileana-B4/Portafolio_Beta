@@ -1,0 +1,17 @@
+.carousel-container{
+    margin-top: 20px;
+    height: 100%;
+    width: 100%; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+
+.image{
+    width: 89vh;
+    height: 70vh;
+    align-self: center;
+    display: flex; 
+    justify-content: center;
+}
